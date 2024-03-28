@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Герои Нашего Времени</string>
+    <string name="title_activity_pager">Pager</string>
+    <string name="title_activity_tabs">Tabs</string>
+    <string name="title_activity_war_hero1">WarHero1</string>
+    <string name="title_activity_grebennikov">Grebennikov</string>
+    <string name="title_activity_gorban">Gorban</string>
+    <string name="title_activity_gubin">Gubin</string>
+    <string name="title_activity_davidov">Davidov</string>
+    <string name="title_activity_evsukov">Evsukov</string>
+    <string name="title_activity_ezhov">Ezhov</string>
+    <string name="title_activity_kozenkov">Kozenkov</string>
+    <string name="title_activity_nazarov">Nazarov</string>
+    <string name="title_activity_razvoliaev">Razvoliaev</string>
+    <string name="title_activity_war_hero2">WarHero2</string>
+    <string name="title_activity_kobin">Kobin</string>
+    <string name="title_activity_zhantas">Zhantas</string>
+    <string name="title_activity_bersenev">Bersenev</string>
+    <string name="title_activity_zarov">Zarov</string>
+    <string name="title_activity_morozov">Morozov</string>
+    <string name="title_activity_petrov">Petrov</string>
+    <string name="title_activity_ozhegov">Ozhegov</string>
+    <string name="title_activity_mustafin">Mustafin</string>
+    <string name="title_activity_zelenko">Zelenko</string>
+    <string name="title_activity_war_hero3">WarHero3</string>
+    <string name="title_activity_struev">Struev</string>
+    <string name="title_activity_hamsin">Hamsin</string>
+    <string name="title_activity_raskatov">Raskatov</string>
+    <string name="title_activity_liholetov">Liholetov</string>
+    <string name="title_activity_muhtubaev">Muhtubaev</string>
+    <string name="title_activity_tumishev">Tumishev</string>
+    <string name="title_activity_ozerov">Ozerov</string>
+    <string name="title_activity_samuratov">Samuratov</string>
+    <string name="title_activity_denis">Denis</string>
+</resources>

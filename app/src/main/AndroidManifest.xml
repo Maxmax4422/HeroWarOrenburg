@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ProfessionalLast"
+        tools:targetApi="31">
+        <activity
+            android:name=".Denis"
+            android:exported="false"
+            android:label="@string/title_activity_denis"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Samuratov"
+            android:exported="false"
+            android:label="@string/title_activity_samuratov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Ozerov"
+            android:exported="false"
+            android:label="@string/title_activity_ozerov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Tumishev"
+            android:exported="false"
+            android:label="@string/title_activity_tumishev"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Muhtubaev"
+            android:exported="false"
+            android:label="@string/title_activity_muhtubaev"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Liholetov"
+            android:exported="false"
+            android:label="@string/title_activity_liholetov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Raskatov"
+            android:exported="false"
+            android:label="@string/title_activity_raskatov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Hamsin"
+            android:exported="false"
+            android:label="@string/title_activity_hamsin"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Struev"
+            android:exported="false"
+            android:label="@string/title_activity_struev"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".WarHero3"
+            android:exported="false"
+            android:label="@string/title_activity_war_hero3"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Zelenko"
+            android:exported="false"
+            android:label="@string/title_activity_zelenko"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Mustafin"
+            android:exported="false"
+            android:label="@string/title_activity_mustafin"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Ozhegov"
+            android:exported="false"
+            android:label="@string/title_activity_ozhegov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Petrov"
+            android:exported="false"
+            android:label="@string/title_activity_petrov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Morozov"
+            android:exported="false"
+            android:label="@string/title_activity_morozov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Zarov"
+            android:exported="false"
+            android:label="@string/title_activity_zarov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Bersenev"
+            android:exported="false"
+            android:label="@string/title_activity_bersenev"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Zhantas"
+            android:exported="false"
+            android:label="@string/title_activity_zhantas"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Kobin"
+            android:exported="false"
+            android:label="@string/title_activity_kobin"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".WarHero2"
+            android:exported="false"
+            android:label="@string/title_activity_war_hero2"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Razvoliaev"
+            android:exported="false"
+            android:label="@string/title_activity_razvoliaev"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Nazarov"
+            android:exported="false"
+            android:label="@string/title_activity_nazarov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Kozenkov"
+            android:exported="false"
+            android:label="@string/title_activity_kozenkov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Ezhov"
+            android:exported="false"
+            android:label="@string/title_activity_ezhov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Evsukov"
+            android:exported="false"
+            android:label="@string/title_activity_evsukov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Davidov"
+            android:exported="false"
+            android:label="@string/title_activity_davidov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Gubin"
+            android:exported="false"
+            android:label="@string/title_activity_gubin"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Gorban"
+            android:exported="false"
+            android:label="@string/title_activity_gorban"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Grebennikov"
+            android:exported="false"
+            android:label="@string/title_activity_grebennikov"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".WarHero1"
+            android:exported="false"
+            android:label="@string/title_activity_war_hero1"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Tabs"
+            android:exported="false"
+            android:label="@string/title_activity_tabs"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".Pager"
+            android:exported="false"
+            android:label="@string/title_activity_pager"
+            android:theme="@style/Theme.ProfessionalLast" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.ProfessionalLast">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
